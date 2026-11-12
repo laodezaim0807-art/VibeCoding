@@ -1,0 +1,8 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "Aplikasi luar biasa pembuat kuis interaktif berbasis AI dari berkas teks, gambar, PDF, video, dan tautan YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
